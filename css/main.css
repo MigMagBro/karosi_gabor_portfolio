@@ -1,0 +1,192 @@
+body
+{
+	background-color: white;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+
+header
+{
+	font-size: 4vw;
+	position:left;
+	padding-left: 0vw;
+	width: 100%;
+}
+.tanknev
+{
+	font-size: 3vw;
+	position: center fixed;
+	font-family: serif;
+	text-align: left;
+	left: 3vw;
+	padding-left: 5vx;
+}
+table.ElsoSor
+{
+	display: table;
+	width: 100vw;
+	position: fixed;
+	text-align: center;
+	border: 51vw;
+	padding-left: 3vw;
+	padding-right: 5vw;
+	top: 12.2vw;
+	height: 33vw;
+
+}
+tr
+{
+	
+	font-size:2vW;
+	
+}
+
+td
+{
+	
+	text-align: center;
+	padding: 1vw 1vw;
+    text-decoration: none;
+}
+p
+{
+	font-family: serif;
+	font-size: 2vw;
+	text-align: left;
+	padding:  1vw;
+	width: 30vw;
+	background-color: rgba(0, 0, 0, 0.1);
+
+}
+.szoveg
+{
+	font-size: 1.6vw;
+}
+a
+{
+	color: rgba(190, 0, 0, 0.0);
+	text-decoration: underline;
+	padding:1vw 4.6vw; 
+}
+.mutat
+{
+	color: rgba(0, 0, 0, 1.0);
+	font-size: 4vw;
+	font-family: Trebuchet MS;
+	padding: 1vw 4.6vw;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+.link
+{
+	color: blue;
+	font-size: 2vw;
+}
+
+div
+{
+	font-size: 1vw;
+}
+.kep
+{
+	width: 30vw;
+	padding: 5vw;
+}
+.leiras
+{
+	width: 50vw;
+	font-size: 1vw;
+}
+.kezdolap
+{
+	background-image: url('Kékep/MainBG.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.Fejes
+{
+	background-image: url("Kékep/Fejes.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.Straussler
+{
+	background-image: url("Kékep/Straussler.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.ToldiIIa
+{
+	background-image: url("Kékep/ToldiIIa.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.TuranI
+{
+	background-image: url("Kékep/TuranI.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.TuranII
+{
+	background-image: url("Kékep/TuranII.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.Tas
+{
+	background-image: url("Kékep/Tas.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.ToldiI
+{
+	background-image: url("Kékep/ToldiI.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.T34
+{
+	background-image: url("Kékep/T34.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.ToldiPV
+{
+	background-image: url("Kékep/ToldiPV.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.ZrinyiII
+{
+	background-image: url("Kékep/ZrinyiII.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.ZrinyiI
+{
+	background-image: url("Kékep/ZrinyiI.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+.Tervezés
+{
+	background-color: white;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+}
+
+
